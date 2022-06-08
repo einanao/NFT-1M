@@ -6,7 +6,7 @@
 
 A dataset containing 1,359,385 Ethereum NFT images and their metadata.
 
- - Since multiple NFTs can be minted for the same image, there are only ~1M unique images.
+ - Since multiple NFTs can be minted for the same image, there are only 1,116,157 unique images.
  - Images were first downscaled such that their maximum width or height is 256px, then converted to RGBA and saved as PNGs.
  - Each NFT is characterized by a unique (contract address, token ID) pair. The directories are structured as {img|metadata}/contract_address/token_id.{png|json}.
  - Contract addresses in the dataset roughly correspond to the top 100 collections by market capitalization as of March 2022.
