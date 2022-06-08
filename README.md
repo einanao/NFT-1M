@@ -14,6 +14,7 @@ A dataset containing 1,359,385 Ethereum NFT images and their metadata.
  - NFTs that do not link to images were ignored. This includes NFTs that link to an animation but not an image. We did include NFTs that link to both an animation and an image.
  - All data was downloaded between March and June 2022.
  - You can view NFT details on the web (e.g., to verify the accuracy of the image and metadata for a given token) using Etherscan (`https://etherscan.io/nft/contract_address/token_id`) or OpenSea (`https://opensea.io/assets/contract_address/token_id`).
+ - **Warning**: some images may be NSFW
 
 ## Generative model of NFT images
 
